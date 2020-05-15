@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 permalink: /about/
+markdown: kramdown
 theme: jekyll-theme-architect
 ---
 
