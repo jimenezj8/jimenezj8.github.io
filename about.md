@@ -1,8 +1,6 @@
 ---
 layout: page
-title: "About"
 permalink: /about/
-theme: jekyll-theme-architect
 ---
 
 # Jovier Jimenez
