@@ -1,14 +1,6 @@
 ---
 layout: page
----
----
-title: "Projects"
----
----
 permalink: /projects/
----
----
-theme: jekyll-theme-architect
 ---
 
 # Projects
