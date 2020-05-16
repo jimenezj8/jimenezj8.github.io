@@ -1,7 +1,5 @@
 ---
-title: Jovier Jimenez
-description: Main page
-project-name: "Website"
+title: Jovier Jimenez's Site
 ---
 <head>
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
