@@ -2,6 +2,8 @@
 title: Password Generator
 ---
 
+[Home](/) | [About](/about/) | [Password Generator](/password-generator)
+
 # Password Generator
 This program helps users create unique, strong passwords for use in any account. While it doesn't have it's own interface, I've built it into the Password Manager's creation scheme. How it works is simple; if a user wants to create a password, all they have to do is click "Create" with the password field empty and the password will be stored along with the rest.
 
