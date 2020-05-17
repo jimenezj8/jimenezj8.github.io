@@ -11,7 +11,7 @@ title: Jovier Jimenez's Site
   <meta name="theme-color" content="#ffffff">
 </head>
 
-[About](/about/) | [Password Manager](/password-manager/) | [Password Generator](/password-generator) | [Virtual Dominoes](/dominoes/)
+[About](/about/) | [Password Manager](/password-manager/) | [Password Generator](/password-generator)
 
 # Introduction
 Hi there! I've made a few quick links to help you navigate around the site. As I learn more about programming, I'll update this site to show off some of my work. In my spare time, I'll also begin providing detailed documentation on all of my work, so you can recreate it to learn or take chunks of code or ideas to supply your own work. Enjoy!
