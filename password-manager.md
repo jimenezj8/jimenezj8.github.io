@@ -2,6 +2,8 @@
 permalink: /password-manager/
 ---
 
+[Home](/) | [About](/about/) | [Password Generator](/password-generator)
+
 # Password Manager
 This password manager is an application that I wrote because I was tired of having to use the same passwords over and over again simply because so many service require me to create them. I also don't really trust any other keyrings, besides the one that's built into my operating system and that I know doesn't communicate with any companies. 
 
