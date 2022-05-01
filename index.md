@@ -1,5 +1,5 @@
 ---
-title: Jovier Jimenez's Site
+title: Jovi's Site
 ---
 <head>
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -11,7 +11,7 @@ title: Jovier Jimenez's Site
   <meta name="theme-color" content="#ffffff">
 </head>
 
-[About](/about/) | [Password Manager](/password-manager/) | [Password Generator](/password-generator)
+[About](/index/) | [Projects](/projects/) | [Articles](/articles/) | [Science Fiction](/science-fiction/)
 
-# Introduction
-Hi there! I've made a few quick links to help you navigate around the site. As I learn more about programming, I'll update this site to show off some of my work. In my spare time, I'll also begin providing detailed documentation on all of my work, so you can recreate it to learn or take chunks of code or ideas to supply your own work. Enjoy!
+# About
+I'm using this website as a means to keep myself organized with personal projects and also show people what I get up to in my free time. I don't often finish the projects I've started, so don't be surprised to find things incompleted. On display currently, I have some software as well as articles on all sorts of topics. Additionally, while not accessible through this website, I have some science fiction writing samples that I can send on request, subject to my approval. I've made a few quick links to help you navigate around the site. Enjoy!
